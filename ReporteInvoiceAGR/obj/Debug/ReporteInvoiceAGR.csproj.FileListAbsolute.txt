@@ -1,0 +1,8 @@
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\bin\ReporteInvoiceAGR.dll.config
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\bin\ReporteInvoiceAGR.dll
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\bin\ReporteInvoiceAGR.pdb
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\obj\Debug\ReporteInvoiceAGR.csprojResolveAssemblyReference.cache
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\obj\Debug\ReporteInvoiceAGR.dll
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\obj\Debug\ReporteInvoiceAGR.pdb
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\obj\Debug\RdlCompile.cache
+E:\Docs\Desktop\Visual Studio 2013\Projects\ReporteInvoiceAGR\ReporteInvoiceAGR\obj\Debug\RdlCompile.compiled
